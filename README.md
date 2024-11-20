@@ -5,17 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag8565" alt="anurag8565" /></a> </p>
 
-- 🔭 I’m currently working on **flutter**
+--  [ ] 🌱 I’m currently learning: **Full Stack Development 🌐💻
+Data Structures & Algorithms (DSA) 📊🔍**
 
-- 🌱 I’m currently learning **flutter**
+-  [ ] 💬 Ask me about: **💻 Front-End Development, 📊 Data Structures and Algorithms (DSA), 📚 Object-Oriented Programming (OOP), 🌐 Responsive Design and 🚀 Project Development**
 
-- 👯 I’m looking to collaborate on **flutter**
+-  [ ] 👨‍💻 All of my projects are available at [Portfolio]([https://anurag9981.github.io/personal_portfolio/])
 
-- 🤝 I’m looking for help with **Java,Dsa,Html,CSS,JS**
+-  [ ] 📫  How to reach me: **Anuragsinghas098@gmail.com**
 
-- 💬 Ask me about **Html,CSS,Js,React,Flutter**
+-  [ ] 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17PybWqun0d0eui-Vds8ZUjA5l_UBMRnO/view?usp=sharing)
 
-- 📫 How to reach me **Anuragsinghas098@gmail.com**
+
+-  [ ] ⚡ Fun fact: **I am funny 😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
