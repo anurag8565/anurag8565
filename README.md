@@ -31,3 +31,4 @@ Data Structures & Algorithms (DSA) 📊🔍**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anurag8565&show_icons=true&locale=en" alt="anurag8565" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anurag8565&" alt="anurag8565" /></p>
+<img src="https://raw.githubusercontent.com/tanyaaa05/tanyaaa05/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
