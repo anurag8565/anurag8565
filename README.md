@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anurag8565" alt="anurag8565" /></a> </p>
 
---  [ ] 🌱 I’m currently learning: **Full Stack Development 🌐💻
+--  [ ] 🌱 I’m currently learning: **Full Stack Development  AND DEVOPS🌐💻
 Data Structures & Algorithms (DSA) 📊🔍**
 
 -  [ ] 💬 Ask me about: **💻 Front-End Development, 📊 Data Structures and Algorithms (DSA), 📚 Object-Oriented Programming (OOP), 🌐 Responsive Design and 🚀 Project Development**
